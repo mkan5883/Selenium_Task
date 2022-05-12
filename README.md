@@ -31,4 +31,4 @@ run the testng.xml file
 
 Report Reading
 ----
-open the html file in test-output > html > index.html
+open the test-output > html > index.html file in browser
